@@ -5,6 +5,12 @@ Download YouTube video transcripts as plain text from the command line.
 ## Installation
 
 ```bash
+curl -fsSL https://raw.githubusercontent.com/cloonix/yt-transcript/main/install.sh | bash
+```
+
+Or manually:
+
+```bash
 # Using pipx (recommended)
 pipx install git+https://github.com/cloonix/yt-transcript.git
 
