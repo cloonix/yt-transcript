@@ -13,3 +13,8 @@ __pycache__/
 # Downloaded files
 *_transcript.txt
 transcript.txt
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
