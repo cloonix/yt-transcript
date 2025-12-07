@@ -26,7 +26,7 @@ classifiers = [
     "Topic :: Multimedia :: Video",
     "Topic :: Utilities",
 ]
-dependencies = ["youtube-transcript-api>=1.0.0"]
+dependencies = ["youtube-transcript-api>=1.0.0,<2.0.0"]
 
 [project.scripts]
 ytt = "ytt:main"
